@@ -1,8 +1,7 @@
-### Hello there! 👋  
 [nestorhugo.com](https://www.nestorhugo.com)
 
-Software Developer and UI/UX Designer  
-Student at the Federal University of Technology - Paraná (UTFPR)  
-Constantly learning and improving my skills
+Software Developer with a UI/UX Designer background.  
+Student at the Federal University of Technology - Paraná (UTFPR).  
+Currently working with TypeScript, Vue.js and Pinia.
 
-[Linkedin](https://www.linkedin.com/in/nestorhugo/) | [nestorhugofc@gmail.com](mailto:nestorhugofc@gmail.com)
+[linkedin](https://www.linkedin.com/in/nestorhugo/) | [nestorhugofc@gmail.com](mailto:nestorhugofc@gmail.com)
